@@ -14,5 +14,3 @@ This is a clone of Amazon's website created using HTML and CSS. The project aims
 
 - HTML
 - CSS
-
-## Setup
